@@ -1,6 +1,6 @@
 # Win-Aliases
 ---
-## Each of these .bat file helps you from writing repetative long Python command on CMD.
+## Each of these .bat file helps you from writing repetative long command on CMD.
 
 **To use these .bat file, add the folder's path containing these file to PATH environment variable.**
 ##### Start server
@@ -12,3 +12,6 @@
 - Run `venv` to activate the virtual environment
 ##### Install project requirements
 - Run `install` to install all the project requirement from *requirements.txt* file
+##### Run Java Code
+- Instead of `javac file_name.java` and again `java file_name` to run Java code
+- Run `jj file_name` to run Java code at one go 
