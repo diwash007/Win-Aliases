@@ -13,5 +13,5 @@
 ##### Install project requirements
 - Run `install` to install all the project requirement from *requirements.txt* file
 ##### Run Java Code
-- Instead of `javac file_name.java` and again `java file_name` to run java file
-- Run `rj file_name` to run Java code at one go 
+- Instead of `javac file_name.java` and again `java file_name` to run Java code
+- Run `jj file_name` to run Java code at one go 
